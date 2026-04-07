@@ -13,8 +13,8 @@ public class LootManagerDriver {
         // TODO: Step 6
         // Uncomment these lines when you're ready.
         // Feel free to add some more!
-        // lootManager.add(LootFactory.create("Weapon,Pointy Stick,Common,3".split(",")));
-        // lootManager.add(LootFactory.create("Consumable,Bitter Little Berries,Common,12".split(",")));
+         lootManager.add(LootFactory.create("Weapon,Pointy Stick,Common,3".split(",")));
+         lootManager.add(LootFactory.create("Consumable,Bitter Little Berries,Common,12".split(",")));
 
         lootManager.displayInventory();
 
